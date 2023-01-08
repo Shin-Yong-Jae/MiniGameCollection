@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c158cd32f92714656be2072daaefcd25, type: 3}
+  m_Name: MaxSettings
+  m_EditorClassIdentifier: 
+  SdkKey: CR4KmCdD0TUPNE-ARH4HtdfmokMLxvZ8KdS4q5IqZnEx0C5STAkKoO5a6Rw2LTAg6dlxk2mHp-CqAHGdR_zEO3
+  interstitialAdUnit_AOS: e3ece3d354496f4c
+  interstitialAdUnit_IOS: fffcf22523b11861
+  rewardedAdUnit_AOS: 30860ff46f6057ed
+  rewardedAdUnit_IOS: e033472864e8d8d6
+  bannerAdUnit_AOS: e306d1dc8bcd786d
+  bannerAdUnit_IOS: 505a64acc11b8512
