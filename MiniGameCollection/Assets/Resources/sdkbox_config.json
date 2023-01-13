@@ -1,0 +1,45 @@
+{
+    "android": {
+        "GoogleAnalytics" : {
+            "trackingCode" : "UA-70268633-1"
+        },
+        "iap": {
+            "items": {
+                "coin_100": {
+                    "id": "bbtan_inapp_1"
+                },
+                "coin_220": {
+                    "id": "bbtan_inapp_2"
+                },
+                "coin_500": {
+                    "id": "bbtan_inapp_3"
+                },
+                "coin_1200": {
+                    "id": "bbtan_inapp_4"
+                }
+            },
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqQ2zJzSMDBaF1YH7N87wensLRw1hQjpMtZAj/DCSaMiST9TzJnKRfg5xZ/52JGI8EetZWKTPpms44Xng4vaUgrCQNNVrA8HGJgdJ5TObZylT8zlT6t2IscGlNpYg/8TovOlMSSxWw4jVUVQe7VNis4eehWUqMORvgKgfXnoKMCWP3t+L3Vbk9rN/1r76seMoTwX3NFGPtWlwsmG8lu5Ai67+XmSOwPf+gUCMbQFLRCzgg0t3un4oLzhHu9Pe5dsE9K0hvy1svMPzEKC4hY4kjaclVVUu1QE8/d55RomyzrNlSZiBM5O+aubiVrludNlQ2KD/jPn/t7nKQi/5P/EtGwIDAQAB"
+        }
+    }, 
+    "ios": {
+        "GoogleAnalytics" : {
+            "trackingCode" : "UA-70268633-1"
+        },
+        "iap": {
+            "items": {
+                "coin_100": {
+                    "id": "bbtan_inapp_1"
+                },
+                "coin_220": {
+                    "id": "bbtan_inapp_2"
+                }, 
+                "coin_500": {
+                    "id": "bbtan_inapp_3"
+                }, 
+                "coin_1200": {
+                    "id": "bbtan_inapp_4"
+                }
+            }
+        }
+    }
+}
